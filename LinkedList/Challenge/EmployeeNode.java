@@ -1,4 +1,4 @@
-package List.Challenge;
+package LinkedList.Challenge;
 
 public class EmployeeNode {
 

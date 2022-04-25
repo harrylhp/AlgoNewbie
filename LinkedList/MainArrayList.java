@@ -1,6 +1,6 @@
-package List;
+package LinkedList;
 
-import List.DoublyLinkedList.Employee;
+import LinkedList.DoublyLinkedList.Employee;
 
 import java.util.ArrayList;
 import java.util.List;

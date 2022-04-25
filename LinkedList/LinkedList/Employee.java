@@ -1,4 +1,4 @@
-package List.LinkedList;
+package LinkedList.LinkedList;
 
 public class Employee {
 
