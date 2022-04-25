@@ -1,4 +1,4 @@
-package LeetCode;
+package zProblem.LeetCode;
 
 //Greatest common divisor : biggest number that X can divide both A & B
 //Constraint : number must be non-zeo

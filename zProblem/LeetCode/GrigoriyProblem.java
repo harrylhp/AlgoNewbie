@@ -1,4 +1,4 @@
-package LeetCode;
+package zProblem.LeetCode;
 
 public class GrigoriyProblem {
     public static void main (String []args){

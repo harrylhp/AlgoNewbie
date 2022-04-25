@@ -1,4 +1,4 @@
-package LeetCode.Tree;
+package zProblem.LeetCode.Tree;
 
  // Definition for a binary tree node.
  public class TreeNode {

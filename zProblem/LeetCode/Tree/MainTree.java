@@ -1,6 +1,4 @@
-package LeetCode.Tree;
-
-import Tree.Tree;
+package zProblem.LeetCode.Tree;
 
 import java.util.ArrayList;
 import java.util.List;
